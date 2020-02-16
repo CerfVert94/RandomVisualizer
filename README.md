@@ -4,4 +4,5 @@ Visualize random function.
 - C rand without seed (TODO)
 - C rand with    seed (TODO)
 
-
+filename format : visualized_random_{n}.png
+{n} : number of iteration ran.
